@@ -1,0 +1,134 @@
+[
+  {
+    "titulo_capitulo": "DO OBJETO",
+    "clausulas": [
+      {
+        "id": "obj_principal",
+        "texto": "CLÁUSULA PRIMEIRA - O CONTRATADO obriga-se, face ao mandato que lhe é outorgado, que faz parte integrante deste contrato, a prestar os serviços advocatícios concernentes a {{ objeto_descricao }}."
+      }
+    ]
+  },
+  {
+    "titulo_capitulo": "DOS HONORÁRIOS",
+    "clausulas": [
+      {
+        "id": "hon_parcelado",
+        "texto": "CLÁUSULA SEGUNDA - Pelos serviços prestados e especificados na cláusula anterior, o CONTRATADO receberá a título de honorários contratados, o valor pró-labore de R$ {{ honorarios_valor_total }}, a serem depositados no banco Itaú, agência nº 4088 e conta nº 15.991-0 ou no pix (11) 99308-2707, em {{ honorarios_qtd_parcelas }} parcelas fixas e sucessivas, cada uma no valor de R$ {{ honorarios_valor_parcela }}, a primeira em {{ honorarios_data_inicio }}.",
+        "paragrafos": [
+          "Parágrafo Primeiro - Quaisquer outras medidas judiciais necessárias, incidentais ou não, diretas ou indiretas, decorrentes do objeto do contrato, deverão ter novos honorários estimados entre as partes.",
+          "Parágrafo Segundo - Os honorários de condenação (sucumbência), se houver, pertencerão ao Advogado, sem exclusão dos que ora são contratados, de conformidade com os artigos 23 da Lei nº 8.906/94 e 35, parágrafo 1º, do Código de Ética e Disciplina da OAB."
+        ]
+      },
+      {
+        "id": "tit_executivo",
+        "texto": "CLÁUSULA TERCEIRA - Este contrato enquadra-se no rol dos títulos executivos extrajudiciais, nos termos do artigo 784, Inciso XII, do Código de Processo Civil, combinado com o artigo 24 da Lei 8.906/94 (EOAB).",
+        "paragrafos": [
+          "Parágrafo Primeiro - Fica estabelecido que em caso de atraso serão cobrados juros de mora na razão de 1% (um por cento) ao mês."
+        ]
+      },
+      {
+        "id": "prop_servicos",
+        "texto": "CLÁUSULA QUARTA - Fica estabelecido que, iniciados os serviços especificados na cláusula 01, são devidos os honorários contratados na proporção dos serviços prestados, ainda que em caso de desistência por parte do CONTRATANTE."
+      },
+      {
+        "id": "instancia_sup",
+        "texto": "CLÁUSULA QUINTA - Fica estabelecido que os honorários contratados abarcam os serviços prestados até a última instância superior, correndo todas as despesas processuais, custas e outros emolumentos por conta do CONTRATANTE."
+      },
+      {
+        "id": "atividade_meio",
+        "texto": "CLÁUSULA SEXTA - Sendo o exercício profissional do CONTRATADO uma atividade de meio e não de resultado, fica estabelecido que os honorários avençados na Cláusula 02 serão sempre devidos, independentemente do resultado da ação.",
+        "paragrafos": [
+           "Parágrafo Primeiro - Os honorários devidos à sucumbência, se houver, pertencerão única e exclusivamente ao CONTRATADO, nos termos do art. 23 do EOAB, Lei 8.906/94."
+        ]
+      },
+      {
+        "id": "compensacao",
+        "texto": "CLÁUSULA SÉTIMA - No caso de levantamento ou recebimento de valores pelo CONTRATADO, através de alvará, mandado de pagamento ou qualquer outro meio, poderá o CONTRATADO descontar e/ou compensar os honorários contratados que lhe são devidos."
+      }
+    ]
+  },
+  {
+    "titulo_capitulo": "DO COMPROMISSO",
+    "clausulas": [
+      {
+        "id": "compromisso_fiel",
+        "texto": "CLÁUSULA OITAVA - O CONTRATANTE se compromete a prestar todas, e fiéis, informações relacionadas ao fato constitutivo do seu direito, bem como subsidiar com instrumentos a evidenciá-lo."
+      }
+    ]
+  },
+  {
+    "titulo_capitulo": "DA COMUNICAÇÃO",
+    "clausulas": [
+      {
+        "id": "meios_contato",
+        "texto": "CLÁUSULA NONA - O CONTRATANTE se compromete a manter atualizados os meios de contato ora avençados para a boa comunicação das partes.",
+        "paragrafos": [
+          "Parágrafo Primeiro - Assim, os contatos serão através do número de telefone (11) 99493-1047, e derivados (SMS, Whatsapp).",
+          "Parágrafo Segundo - Em caso de alteração de algum dos contatos, deverá ser informado imediata e inequivocamente ao CONTRATADO."
+        ]
+      },
+      {
+        "id": "resp_comunicacao",
+        "texto": "CLÁUSULA DÉCIMA - Se porventura o CONTRATADO depender do CONTRATANTE para promover algum ato extrajudicial ou judicial, e este não o corresponder tempestivamente, a responsabilidade recairá exclusivamente sobre o CONTRATANTE."
+      }
+    ]
+  },
+  {
+    "titulo_capitulo": "DAS DESPESAS",
+    "clausulas": [
+      {
+        "id": "despesas_gerais",
+        "texto": "CLÁUSULA DÉCIMA PRIMEIRA - Todas as despesas efetuadas pelo CONTRATADO, desde que devidamente comprovadas, ficarão a cargo do CONTRATANTE, sem qualquer prejuízo dos honorários contratados."
+      },
+      {
+        "id": "transporte_mun",
+        "texto": "CLÁUSULA DÉCIMA SEGUNDA - Todas as despesas inerentes a transporte coletivo (ônibus, metrô etc.) municipal e intermunicipal serão custeadas pelo CONTRATANTE.",
+        "paragrafos": [
+            "Parágrafo Primeiro - Em caso de urgência, o CONTRATADO poderá utilizar-se de Uber/táxi para locomoção ao fórum, cabendo ao CONTRATANTE o devido reembolso."
+        ]
+      },
+      {
+        "id": "transporte_inter",
+        "texto": "CLÁUSULA DÉCIMA TERCEIRA - Todas as despesas necessárias para o caso de locomoção interestadual ou internacional ficarão a cargo do CONTRATANTE.",
+        "paragrafos": [
+            "Parágrafo Primeiro - No caso das despesas de transporte interestadual ou internacional e hotelaria, as partes deverão ajustar previamente, até 05 (cinco) dias antes.",
+            "Parágrafo Segundo - No que concerne a alimentação noutra Comarca, Estado ou País, dar-se-á através de reembolso do que fora devidamente comprovado."
+        ]
+      },
+      {
+        "id": "reembolso",
+        "texto": "CLÁUSULA DÉCIMA QUARTA - Em caso de reembolso a ser efetuado pelo CONTRATANTE em favor do CONTRATADO, este poderá compensá-lo quando do recebimento ou levantamento de valores."
+      }
+    ]
+  },
+  {
+    "titulo_capitulo": "DA CONTRATAÇÃO DE TERCEIROS",
+    "clausulas": [
+      {
+        "id": "terceiros",
+        "texto": "CLÁUSULA DÉCIMA QUINTA - Se no decurso do processo houver a necessidade da contratação de profissional(is) de outra(s) área(s), o CONTRATADO poderá indicar escritório ou profissional de sua confiança."
+      }
+    ]
+  },
+  {
+    "titulo_capitulo": "DA RESCISÃO",
+    "clausulas": [
+      {
+        "id": "rescisao_justa",
+        "texto": "CLÁUSULA DÉCIMA SEXTA - A parte que descumprir qualquer das cláusulas deste contrato dará à outra o direito de rescindir o presente instrumento.",
+        "paragrafos": [
+            "Parágrafo Primeiro - Ademais, acordam as partes que, em caso de necessidade de ajuizamento de ações, a citação se dará por via postal, com aviso de recebimento (AR)."
+        ]
+      }
+    ]
+  },
+  {
+    "titulo_capitulo": "DO FORO DE ELEIÇÃO",
+    "clausulas": [
+      {
+        "id": "foro_sp",
+        "texto": "CLÁUSULA DÉCIMA SÉTIMA - Fica eleito o foro da Comarca de São Paulo para dirimir as dúvidas oriundas deste contrato."
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+# Python
+**/venv/
+__pycache__/
+*.pyc
+
+# Node / Frontend
+**/node_modules/
+.dist/
+.next/
+build/
+
+# Documentos e Output (Sempre ignore os resultados gerados)
+backend/output/*.docx
+backend/output/*.pdf
+
+# Ambientes e Segredos
+.env
+.vscode/
